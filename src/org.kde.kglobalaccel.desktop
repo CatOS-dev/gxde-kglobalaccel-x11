@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=KDE Global Shortcuts Service
+Exec=/usr/lib/gxde-kglobalaccel-x11/start-kglobalacceld
+NoDisplay=true
+Categories=System;

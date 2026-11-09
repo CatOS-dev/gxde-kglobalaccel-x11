@@ -93,3 +93,5 @@ ecm_install_configured_files(
     INPUT kglobalacceld.desktop.in
     DESTINATION ${KDE_INSTALL_AUTOSTARTDIR} @ONLY
 )
+
+install(FILES org.kde.kglobalaccel.desktop DESTINATION ${KDE_INSTALL_APPDIR})
